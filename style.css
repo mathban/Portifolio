@@ -2,12 +2,12 @@ body {
     height: 300vh;
     
     background: url(IMAGENS/) no-repeat;
-    background-color: black;
+    background-color: rgb(10, 6, 65);
     }
     
     #porfile-photo{
-    border-radius: 100%;
-    width: 140px;
+    border-radius: 10%;
+    width: 150px;
     float: left;
     clear: both;
     
@@ -36,7 +36,8 @@ body {
     font-weight: 600;
     text-align: center;
     letter-spacing: -1px;
-    color: #c7c7c7;
+    color: rgb(10, 6, 65);
+    
     }
     
     .section-txt2{
@@ -44,12 +45,27 @@ body {
     font-weight: 600;
     text-align: justify;
     letter-spacing: -1px;
-    color: #c7c7c7;
+    
     }
 
     #cabecalho {
      padding: 20px;
+     margin: 10px;
+     background-color: rgb(255, 255, 255);
+     color: black;
 
     }
+
+    #apresentacao {
+     padding: 20px;
+     margin: 10px;
+     background-color: rgb(255, 255, 255);
+     color: black;
+    }
     
-    
+    #habilidadesfortes {
+        padding: 20px;
+        margin: 10px;
+        background-color: rgb(255, 255, 255);
+        color: black;
+       }
