@@ -39,6 +39,11 @@ body {
     color: rgb(10, 6, 65);
     
     }
+
+    h5,h3{
+     color: rgb(10, 6, 65);
+    }
+
     
     .section-txt2{
     line-height: 25px;
@@ -69,3 +74,10 @@ body {
         background-color: rgb(255, 255, 255);
         color: black;
        }
+
+    #habilidadesfracas {
+     padding: 20px;
+     margin: 10px;
+     background-color: rgb(255, 255, 255);
+     color: black;
+    }
