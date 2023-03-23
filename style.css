@@ -1,0 +1,83 @@
+body {
+    height: 300vh;
+    
+    background: url(IMAGENS/) no-repeat;
+    background-color: rgb(10, 6, 65);
+    }
+    
+    #porfile-photo{
+    border-radius: 10%;
+    width: 150px;
+    float: left;
+    clear: both;
+    
+    }
+    
+    #main-title{
+    line-height: 55px;
+    font-weight: 600;
+    text-align: center;
+    letter-spacing: -1px;
+    color: #006ba8
+    }
+    
+    .section-title{
+    line-height: 25px;
+    font-weight: 600;
+    text-align: center;
+    letter-spacing: 0px;
+    color: #006ba8;
+    float: right;
+    clear: both;
+    }
+    
+    .section-txt1{
+    line-height: 25px;
+    font-weight: 600;
+    text-align: center;
+    letter-spacing: -1px;
+    color: rgb(10, 6, 65);
+    
+    }
+
+    h5,h3{
+     color: rgb(10, 6, 65);
+    }
+
+    
+    .section-txt2{
+    line-height: 25px;
+    font-weight: 600;
+    text-align: justify;
+    letter-spacing: -1px;
+    
+    }
+
+    #cabecalho {
+     padding: 20px;
+     margin: 10px;
+     background-color: rgb(255, 255, 255);
+     color: black;
+
+    }
+
+    #apresentacao {
+     padding: 20px;
+     margin: 10px;
+     background-color: rgb(255, 255, 255);
+     color: black;
+    }
+    
+    #habilidadesfortes {
+        padding: 20px;
+        margin: 10px;
+        background-color: rgb(255, 255, 255);
+        color: black;
+       }
+
+    #habilidadesfracas {
+     padding: 20px;
+     margin: 10px;
+     background-color: rgb(255, 255, 255);
+     color: black;
+    }
